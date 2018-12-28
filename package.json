@@ -1,0 +1,18 @@
+{
+  "name": "necrozmaproject-emulator",
+  "version": "1.0.0",
+  "description": "Necrozma Project Emulator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/CharizardFire58/nproject-emulator",
+  "keywords": [
+    "Necrozma Project"
+  ],
+  "author": "CharizardFire",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "2.0.7"
+  }
+}
