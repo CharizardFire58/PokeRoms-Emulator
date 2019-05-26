@@ -1,16 +1,20 @@
 {
-  "name": "necrozmaproject-emulator",
-  "version": "1.0.0",
-  "description": "Necrozma Project Emulator",
+  "name": "pokeroms-emulator",
+  "version": "1.0.2",
+  "description": "PokeRoms Emulator",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/CharizardFire58/nproject-emulator",
+  "repository": "https://github.com/CharizardFire58/PokeRoms-Emulator",
   "keywords": [
-    "Necrozma Project"
+    "Necrozma Project",
+    "PokeSquare",
+    "Emulator",
+    "PokeRoms",
+    "Downloader"
   ],
-  "author": "CharizardFire",
+  "author": "CharizardFire58",
   "license": "MIT",
   "devDependencies": {
     "electron": "2.0.7"

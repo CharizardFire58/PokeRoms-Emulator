@@ -1,6 +1,6 @@
 /*
-  2018 CharizardFire58
-  Necrozma Project emulator
+  2019 CharizardFire58
+  PokéSquare emulator
 */
 
 const electron = require('electron')

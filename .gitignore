@@ -1,3 +1,4 @@
-build.bat
 test.bat
+emulators.new.js
 /emu/
+/necrozmaproject-emulator-win32-ia32/
