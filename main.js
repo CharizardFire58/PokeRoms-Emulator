@@ -1,6 +1,6 @@
 /*
   2019 CharizardFire58
-  PokéSquare emulator
+  PokéRoms emulator
 */
 
 const electron = require('electron')
