@@ -9,4 +9,4 @@ Include:
 - NO$GBA
 - VisualBoyAdvance
 
-For more info visit [PokeRoms.ml/emulator](http://pokeroms.ml/emulator)
+For more info visit https://charizardfire58.github.io/PokeRoms-Emulator/
